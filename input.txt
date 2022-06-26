@@ -1,0 +1,5 @@
+{"pid":2,"email_field":"knowkanhai@gmail.com","first_name":"Kanhai1","last_name":"Shah","class_year":2012,"date_of_birth":"1990-10-11", "date_of_marriage": "78-13-1536"}
+{ "pid": 3, "email_field": "knowkanhai@gmail.com", "first_name": "Kanhai", "last_name": "SHah", "class_year": "None", "date_of_birth": "None", "date_of_marriage": "78-13-1536"}
+{ "pid": 4, "email_field": "knowkanhai@gmail.com", "first_name": "notinmood", "last_name": "areyou", "class_year": 2012, "date_of_birth": "1990-10-11", "date_of_marriage": "78-13-1536"}
+{ "pid": 5, "email_field": "knowkanhai@gmail.com", "first_name": "Kanhai", "last_name": "SHAh", "class_year": "None", "date_of_birth": "None", "date_of_marriage": "78-13-1536"}
+{ "pid": 6, "email_field": "knowkanhai+donotcompare@gmail.com", "first_name": "Kanhai1", "last_name": "SHAH", "class_year": 2012, "date_of_birth": "1990-10-11", "date_of_marriage": "78-13-1536"}
